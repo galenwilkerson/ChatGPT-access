@@ -45,7 +45,7 @@ Run the script to start interacting with the ChatGPT model:
 python chatgpt_project.py
 ```
 
-When you run the script, it will prompt you to enter text, which will be sent to the GPT-4-turbo model. The model's response will be printed to the console. To exit, type "exit", "quit", or "stop".
+When you run the script, it will prompt you to enter text, which will be sent to the GPT-3-turbo model. The model's response will be printed to the console. To exit, type "exit", "quit", or "stop".
 
 ## Notebook
 
