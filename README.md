@@ -1,7 +1,7 @@
 # ChatGPT-access
 A little code to access ChatGPT 3.5 Turbo.
 
-This repository contains a project to interact with OpenAI's GPT models using the latest OpenAI API. The project includes a Python script that reads an API key from a file and interacts with the GPT-4-turbo model to generate responses based on user input.
+This repository contains a project to interact with OpenAI's GPT models using the latest OpenAI API. The project includes a Python script that reads an API key from a file and interacts with the GPT-3-turbo model to generate responses based on user input.
 
 ## Requirements
 
